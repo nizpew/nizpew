@@ -1,4 +1,4 @@
-- dotfiles, or an codecheat to a post installation of arch
+Hi! i am a TypeScript, PostgreSQL, Redis, GraphQL developer, who likes backend coding!
 
 <!---
 nizpew/nizpew is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

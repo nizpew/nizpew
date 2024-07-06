@@ -1,4 +1,6 @@
-Hi! i am a TypeScript, PostgreSQL, Redis, GraphQL developer, who likes backend coding!
+Hi! i am a developer, who likes backend coding!
+I have projects using mainly the Python and Shell language.
+
 
 <!---
 nizpew/nizpew is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

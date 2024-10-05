@@ -1,5 +1,7 @@
 Hi! i am a developer, who likes backend coding!
-I have projects using mainly the Python and Shell language.
+I have projects using mainly the Python and Shell language. I am often inclined to tinker with bleeding-edge software components, 
+Currently learning DevOps, and achieving my Machine Learning and Data Science Bachelor
+
 
 
 <!---

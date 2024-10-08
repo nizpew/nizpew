@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Nizpew and I'm a developer who likes backend coding.</h2>
+<h2 align="left">Hi! My name is Nizpew and I'm a developer who likes backend coding.</h2>
 
 ###
 
@@ -9,14 +9,14 @@
 
 ###
 
-<img align="right" height="150" src="https://i.pinimg.com/originals/0b/6d/5a/0b6d5ab314811648458c43bb34aade62.gif"  />
+<img align="right" height="150" src="https://c.tenor.com/DKzsH-YSXI4AAAAd/anime-chill.gif"  />
 
 ###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/shell/shell-original.svg" height="30" alt="shell logo"  />
+  <img src="https://school.brainhackmtl.org/modules/introduction_to_terminal/bash_shell.png" height="30" alt="bash logo" />
 </div>
 
 ###

@@ -3,9 +3,11 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nizpew&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nizpew&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+<!--
+  <img src="https://github-readme-stats.vercel.app/api?username=nizpew&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />-->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nizpew&locale=en&hide_title=false&layout=compact&card_width=600&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
+
 
 ###
 
@@ -29,7 +31,7 @@
 </div>
 
 ###
-
+<!--
 ## 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
 
 [![exfilemanager](https://svg.bookmark.style/api?url=https://github.com/nizpew/exfilemanager&mode=light&style=horizontal)](https://github.com/nizpew/exfilemanager)  
@@ -51,5 +53,6 @@ This project allows users to upload Tavern characters and interact locally with 
 <img src="https://raw.githubusercontent.com/nizpew/nizpew/output/snake.svg" alt="Snake animation" />
 
 ### 
+-->
 
 I like machine learning too, and I enjoy trying new technologies and working on new and challenging projects. I'm currently learning DevOps and pursuing my Machine Learning and Data Science Bachelor.

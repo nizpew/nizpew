@@ -30,6 +30,22 @@
 
 ###
 
+## 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
+
+[![exfilemanager](https://svg.bookmark.style/api?url=https://github.com/nizpew/exfilemanager&mode=light&style=horizontal)](https://github.com/nizpew/exfilemanager)  
+The ex-file-manager is a script designed to help users identify which folders are consuming disk space on their Linux machines. It leverages AI capabilities to provide insights into disk usage.
+
+[![teologyshort](https://svg.bookmark.style/api?url=https://github.com/nizpew/teologyshort&mode=dark&style=horizontal)](https://github.com/nizpew/teologyshort)  
+Shortcut for studying the Bible, AI-powered, with speech synthesis, fast, for command-line.
+
+[![AI-code-analysis](https://svg.bookmark.style/api?url=https://github.com/nizpew/AI-code-analysis&mode=light&style=horizontal)](https://github.com/nizpew/AI-code-analysis)  
+Static code analysis, AI-based (tgpt PhindAI model). Works with any programming language. Has GUI.
+
+[![local-character-ai](https://svg.bookmark.style/api?url=https://github.com/nizpew/local-character-ai&mode=dark&style=horizontal)](https://github.com/nizpew/local-character-ai)  
+This project allows users to upload Tavern characters and interact locally with an AI that impersonates those characters.
+
+
+
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/nizpew/nizpew/output/snake.svg" alt="Snake animation" />

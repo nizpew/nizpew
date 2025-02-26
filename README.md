@@ -1,4 +1,4 @@
-<h2 align="left">Hi! My name is Nizpew and I'm a developer who likes backend coding. My product site: https://taskerai-landing-v2.netlify.app/ </h2>
+<h2 align="left">Hi! My name is Nizpew and I'm a developer who likes backend coding. </h2>
 
 ###
 
@@ -52,5 +52,6 @@
 </div>
 
 ###
+My product site: https://taskerai-landing-v2.netlify.app/
 
 I like machine learning too, and I enjoy trying new technologies and working on new and challenging projects. I'm currently learning DevOps and pursuing my Machine Learning and Data Science Bachelor. I am yet to update my social media so its not ready already 

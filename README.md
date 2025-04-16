@@ -52,9 +52,12 @@
 </div>
 
 ###
-My sites: 
-welcome-to-tasker-ai.netlify.app
-https://nekorecomender.lovable.app/
+## My sites: 
+
+  <img alt="Favicon" src="https://www.faviconextractor.com/favicon/welcome-to-tasker-ai.netlify.app" height="15" alt="Your Alt Text">  https://welcome-to-tasker-ai.netlify.app 
+
+
+  <img src="https://i.postimg.cc/LsRxF49v/nekoicon-removebg-preview.png" height="20" alt="Your Alt Text">  https://nekorecomender.lovable.app/ 
 
 
 I like machine learning too, and I enjoy trying new technologies and working on new and challenging projects. I'm currently learning DevOps and pursuing my Machine Learning and Data Science Bachelor. I am yet to update my social media so its not ready already 

@@ -52,12 +52,22 @@
 </div>
 
 ###
-## My sites: 
+<h2 align="center">My Sites</h2>
 
-  <img alt="Favicon" src="https://www.faviconextractor.com/favicon/welcome-to-tasker-ai.netlify.app" height="15" alt="Your Alt Text">  https://welcome-to-tasker-ai.netlify.app 
+<div align="center">
+  <a href="https://welcome-to-tasker-ai.netlify.app" target="_blank">
+    <img alt="Tasker AI" src="https://www.faviconextractor.com/favicon/welcome-to-tasker-ai.netlify.app" height="20" style="margin-right: 10px;" />
+    <img src="https://img.shields.io/badge/Tasker_AI-505050?style=flat&logo=appveyor&logoColor=white" alt="Tasker AI" />
+  </a>
+</div>
 
+<div align="center">
+  <a href="https://nekorecomender.lovable.app/" target="_blank">
+    <img src="https://i.postimg.cc/LsRxF49v/nekoicon-removebg-preview.png" height="30" style="margin-right: 10px;" />
+    <img src="https://img.shields.io/badge/Neko_Recommender-505050?style=flat&logo=appveyor&logoColor=white" alt="Neko Recommender" />
+  </a>
+</div>
 
-  <img src="https://i.postimg.cc/LsRxF49v/nekoicon-removebg-preview.png" height="20" alt="Your Alt Text">  https://nekorecomender.lovable.app/ 
 
 
 I like machine learning too, and I enjoy trying new technologies and working on new and challenging projects. I'm currently learning DevOps and pursuing my Machine Learning and Data Science Bachelor. I am yet to update my social media so its not ready already 

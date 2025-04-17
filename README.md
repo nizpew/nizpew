@@ -34,10 +34,6 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 
-### 👥 Visitor Badge
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=nizpew.nizpew)
-
 
 
 
@@ -73,3 +69,10 @@
 
 
 I like machine learning too, and I enjoy trying new technologies and working on new and challenging projects. I'm currently learning DevOps and pursuing my Machine Learning and Data Science Bachelor. I am yet to update my social media so its not ready already 
+
+
+
+
+### 👥 Visitor Badge
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=nizpew.nizpew)

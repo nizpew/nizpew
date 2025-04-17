@@ -43,11 +43,6 @@
 
 ###
 
-<div align="left">
-  <img src="https://grafxflow.co.uk/storage/app/uploads/public/5ad/e5b/d9b/thumb_891_266_0_0_0_auto.png" height="30" alt="markdown logo" />
-  <img width="12" />
-  <img src="https://school.brainhackmtl.org/modules/introduction_to_terminal/bash_shell.png" height="30" alt="bash logo" />
-</div>
 
 ###
 

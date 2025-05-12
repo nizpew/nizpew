@@ -1,6 +1,6 @@
 <!-- README.md para perfil do GitHub do Sávio (nizpew) -->
 
-<h2 align="center">👋 Olá! Eu sou o Sãvio</h2>
+<h2 align="center">👋 Olá! Eu sou o Sávio</h2>
 <p align="center">Desenvolvedor focado em backend, apaixonado por Machine Learning e Econometria</p>
 
 <div align="center">

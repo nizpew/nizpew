@@ -1,78 +1,65 @@
-<h2 align="left">Hi! My name is Nizpew and I'm a developer who likes backend coding. </h2>
+<!-- README.md para perfil do GitHub do Sávio (nizpew) -->
 
-###
+<h2 align="center">👋 Olá! Eu sou o Sãvio</h2>
+<p align="center">Desenvolvedor focado em backend, apaixonado por Machine Learning e Econometria</p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nizpew&locale=en&hide_title=false&layout=compact&card_width=600&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nizpew&locale=en&layout=compact&langs_count=6&theme=dracula&hide_border=false" height="140" alt="Top Languages" />
 </div>
 
-###
+<br />
 
-<img align="right" height="150" src="https://c.tenor.com/DKzsH-YSXI4AAAAd/anime-chill.gif" />
+## 🔭 Projetos em Destaque
 
+| Projeto | Descrição | Link |
+| ------- | --------- | ---- |
+| 🚀 **Selic-PIB Insights** | Dashboard interativo em React + Plotly para modelagem VAR de Selic, PIB e IPCA. Suporte a decisões econômicas em tempo real. | [ver ao vivo](https://selic-pib-insights.lovable.app/) • [GitHub](https://github.com/nizpew/selic-pib-insights) |
+| 🧠 **Análise Saúde Mental & Apps** | Estudo em R e ML que identifica preditores de uso de aplicativos e bem-estar mental. Relatório com ANOVA, regressão stepwise e métricas de performance. | [GitHub](https://github.com/nizpew/appusage-mentalhealth_data-analisys-with-ML) |
+| 🔍 **Analisador de Código IA** | GUI em PyQt5 + TGPT para revisão estática de código, detecção de vulnerabilidades e explicações linha a linha. | [GitHub](https://github.com/nizpew/AI-code-analysis) |
 
+<br />
 
+## ⚡ Tecnologias e Ferramentas
 
-###
-
-
-
-
-### ⚡ Technologies
-
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
+![PyTorch](https://img.shields.io/badge/-PyTorch-black?style=flat-square&logo=pytorch)
+![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=pandas)
+![Plotly](https://img.shields.io/badge/-Plotly-black?style=flat-square&logo=plotly)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
 
+<br />
 
+## 📫 Como me encontrar
 
+- ✉️ savioaanery@gmail.com
+- 📱 +55 (61) 9 8450-0458
+- 🔗 [LinkedIn](https://www.linkedin.com/in/seu-perfil)
+- 🔗 [Portfólio](https://github.com/nizpew)
 
+<br />
 
-###
+## 🌱 Atualmente aprendendo
 
+- DevOps (CI/CD, Kubernetes)
+- Arquitetura de microserviços
 
-###
+<br />
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge&height=25" alt="youtube logo" />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge&height=25" alt="instagram logo" />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge&height=25" alt="discord logo" />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge&height=25" alt="linkedin logo" />
-</div>
-
-###
-<h2 align="center">My Sites</h2>
-
+## 🎉 Conecte-se comigo!
 <div align="center">
-  <a href="https://welcome-to-tasker-ai.netlify.app" target="_blank">
-    <img alt="Tasker AI" src="https://www.faviconextractor.com/favicon/welcome-to-tasker-ai.netlify.app" height="20" style="margin-right: 10px;" />
-    <img src="https://img.shields.io/badge/Tasker_AI-505050?style=flat&logo=appveyor&logoColor=white" alt="Tasker AI" />
-  </a>
+  <a href="https://www.linkedin.com/in/seu-perfil" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&style=for-the-badge&color=0077B5" alt="LinkedIn" /></a>
+  <a href="https://youtube.com/seucanal" target="_blank"><img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&style=for-the-badge&color=FF0000" alt="YouTube" /></a>
+  <a href="https://instagram.com/seuperfil" target="_blank"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&style=for-the-badge&color=E4405F" alt="Instagram" /></a>
 </div>
 
-<div align="center">
-  <a href="https://nekorecomender.lovable.app/" target="_blank">
-    <img src="https://i.postimg.cc/LsRxF49v/nekoicon-removebg-preview.png" height="30" style="margin-right: 10px;" />
-    <img src="https://img.shields.io/badge/Neko_Recommender-505050?style=flat&logo=appveyor&logoColor=white" alt="Neko Recommender" />
-  </a>
-</div>
+<br />
 
-
-
-I like machine learning too, and I enjoy trying new technologies and working on new and challenging projects. I'm currently learning DevOps and pursuing my Machine Learning and Data Science Bachelor. I am yet to update my social media so its not ready already 
-
-
-
-
-### 👥 Visitor Badge
+### 👀 Visitas até agora
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=nizpew.nizpew)

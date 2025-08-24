@@ -40,8 +40,7 @@ SQL
 ## 📫 Como me encontrar
 
 - ✉️ savioaanery@gmail.com
-- 📱 +55 (61) 9 8450-0458
-- 🔗 [LinkedIn](https://www.linkedin.com/in/seu-perfil)
+- 🔗 [LinkedIn]()
 - 🔗 [Portfólio](https://github.com/nizpew)
 
 <br />

@@ -41,7 +41,7 @@ SQL
 
 - ✉️ savioaanery@gmail.com
 - 🔗 [LinkedIn]()
-- 🔗 [Portfólio](https://github.com/nizpew)
+- 🔗 [Portfólio](https://github-shelf-magician.lovable.app/)
 
 <br />
 

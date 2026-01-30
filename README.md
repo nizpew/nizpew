@@ -1,65 +1,78 @@
-<!-- README.md para perfil do GitHub do Sávio (nizpew) -->
+<!-- README.md de perfil GitHub do Sávio — Versão RH Friendly -->
 
 <h2 align="center">👋 Olá! Eu sou o Sávio</h2>
-<p align="center">Desenvolvedor focado em backend, apaixonado por Machine Learning e Econometria</p>
+<p align="center">AI & Backend Engineer | Machine Learning | NLP | Python | React | Soluções que geram impacto real</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nizpew&locale=en&layout=compact&langs_count=6&theme=dracula&hide_border=false" height="140" alt="Top Languages" />
-</div>
+---
 
-<br />
+## Sobre mim
 
-## 🔭 Projetos em Destaque
+Sou desenvolvedor e pesquisador de IA apaixonado por criar soluções inteligentes que resolvem problemas complexos do mundo real. Tenho experiência em:
 
-| Projeto | Descrição | Link |
-| ------- | --------- | ---- |
-| 🚀 **Selic-PIB Insights** | Dashboard interativo em React + Plotly para modelagem VAR de Selic, PIB e IPCA. Suporte a decisões econômicas em tempo real. | [ver ao vivo](https://selic-pib-insights.lovable.app/) • [GitHub](https://github.com/nizpew/selic-pib-insights) |
-| 🧠 **Análise Saúde Mental & Apps** | Estudo em R e ML que identifica preditores de uso de aplicativos e bem-estar mental. Relatório com ANOVA, regressão stepwise e métricas de performance. | [GitHub](https://github.com/nizpew/appusage-mentalhealth_data-analisys-with-ML) |
-| 🔍 **Analisador de Código IA** | GUI em PyQt5 + TGPT para revisão estática de código, detecção de vulnerabilidades e explicações linha a linha. | [GitHub](https://github.com/nizpew/AI-code-analysis) |
+- **Backend e APIs escaláveis** com FastAPI e Node.js  
+- **Machine Learning & NLP**: análise de sentimentos, classificação de texto, instruction tuning  
+- **Data Analytics & Dashboards**: insights estratégicos com Python, Plotly e PowerBI  
+- **Boas práticas de software**: arquitetura limpa, testes, versionamento com Git e deploy com Docker  
 
-<br />
+Meu foco é entregar **projetos completos**, que vão além de código: soluções aplicáveis, insights acionáveis e produtos que impactam usuários e negócios.
 
-## ⚡ Tecnologias e Ferramentas
+---
+
+## 💼 Projetos em Destaque
+
+| Projeto | Impacto / Descrição | Link |
+| ------- | ----------------- | ---- |
+|  **AI Text Intelligence API** | API FastAPI para análise de texto (sentimento, classificação e resumo). Produção pronta para integração em produtos SaaS ou internal tools. Demonstra domínio de NLP e backend robusto. | [GitHub](https://github.com/nizpew/ai-text-intelligence-api) |
+|  **Tech Salary Intelligence** | Dashboard interativo para análise salarial do mercado de tecnologia. Ajuda profissionais e equipes de RH a tomar decisões estratégicas com base em dados reais. | [GitHub](https://github.com/nizpew/tech-salary-intelligence) |
+|  **Instruction-Tuned GPT-2 Task Generator** | Modelo GPT-2 ajustado para transformar linguagem natural em tarefas estruturadas. Inclui inferência local + API REST em Python, mostrando expertise em NLP e AI aplicada. | [GitHub](https://github.com/nizpew/instruction-tuned-gpt2-task-generator) |
+
+---
+
+##  Principais Habilidades e Tecnologias
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
+![FastAPI](https://img.shields.io/badge/-FastAPI-black?style=flat-square&logo=fastapi)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-black?style=flat-square&logo=pytorch)
-![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=pandas)
-![Plotly](https://img.shields.io/badge/-Plotly-black?style=flat-square&logo=plotly)
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
+![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=mysql)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
-powerBI
-SQL
+![Plotly](https://img.shields.io/badge/-Plotly-black?style=flat-square&logo=plotly)
+![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=pandas)
 
-<br />
+---
 
-## 📫 Como me encontrar
+## 📸 Prints do projeto funcionando
 
-- ✉️ savioaanery@gmail.com
-- 🔗 [LinkedIn]()
+<img width="1281" height="692" alt="image" src="https://github.com/user-attachments/assets/0eb56b7a-f0b7-477f-abcb-2fbbb5e18294" />
+<img width="1272" height="640" alt="image" src="https://github.com/user-attachments/assets/f6a7716c-7327-46b7-8f52-22206778f94c" />
+<img width="1255" height="623" alt="image" src="https://github.com/user-attachments/assets/8756b66b-67af-4e1f-a470-faf86acd9c42" />
+
+---
+
+## 📫 Contato
+
+- ✉️ savioaanery@gmail.com  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/seu-perfil)  
 - 🔗 [Portfólio](https://github-shelf-magician.lovable.app/)
 
-<br />
+---
 
-## 🌱 Atualmente aprendendo
+## 🌱 Atualmente Aprendendo
 
-- DevOps (CI/CD, Kubernetes)
-- Arquitetura de microserviços
+- DevOps (CI/CD, Kubernetes)  
+- Arquitetura de microserviços  
+- Técnicas avançadas de NLP e IA aplicada a produtos  
 
-<br />
+---
 
-## 🎉 Conecte-se comigo!
-<div align="center">
-  <a href="https://www.linkedin.com/in/seu-perfil" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&style=for-the-badge&color=0077B5" alt="LinkedIn" /></a>
-  <a href="https://youtube.com/seucanal" target="_blank"><img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&style=for-the-badge&color=FF0000" alt="YouTube" /></a>
-  <a href="https://instagram.com/seuperfil" target="_blank"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&style=for-the-badge&color=E4405F" alt="Instagram" /></a>
-</div>
+## 🎯 Objetivo de carreira
 
-<br />
+Busco oportunidades como **AI Engineer / Machine Learning Engineer**, onde posso aplicar NLP, análise de dados e arquitetura de software para **resolver problemas reais e gerar impacto mensurável**.
+
+---
 
 ### 👀 Visitas até agora
 
